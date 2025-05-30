@@ -82,8 +82,7 @@ Random Forest gave the best results for this dataset with balanced performance a
 **Nida**  
 _BSc Data Science | Data Science Intern | Aspiring Data Scientist_  
 [![GitHub](https://img.shields.io/badge/GitHub-nida-blue?logo=github)](https://github.com/nidaqureshi-04)
-
-LinkedIn [www.linkedin.com/in/nida-qureshi-n04]
+_LinkedIn [www.linkedin.com/in/nida-qureshi-n04]_
 ---
 
 > “Sometimes you have to sink to learn how to float.” 🖤
